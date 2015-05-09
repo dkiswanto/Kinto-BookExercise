@@ -1,2 +1,2 @@
 # Kinto-BookExercise
-My Book Exercise Collection Result
+just a bunch of garbage :v
